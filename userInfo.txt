@@ -1,0 +1,5 @@
+login / password / accessLevel
+admin/admin/1/
+doctor/doctor/2/
+login/log/3/
+alexey/12345678/1/

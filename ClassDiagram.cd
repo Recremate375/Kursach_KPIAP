@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AdminMenu" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAAAAA=</HashCode>
+      <FileName>AdminMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseMenu" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BaseMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAEAAAAAIAAAAQAAAQAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUserService" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAQAAAAAAAAAAAAAAEIAAAQMAAAAAAAAAA=</HashCode>
+      <FileName>BaseUserService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuService" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAACAAACAIAAQAQAAAAAAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>MenuService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soldier" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABgEAQAAAAAAAAAQAAgABgBAAAYCBEAAAIAAQAA=</HashCode>
+      <FileName>ClassSoldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAEAAIAAAAEACAAFAAAAAAAAAA=</HashCode>
+      <FileName>HumanClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAAAAAAAgBAAAAAAAAAAAAEAAAAAAAAgAAEAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
